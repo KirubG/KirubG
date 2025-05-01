@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm Kirubel Girma
 
-<!--
-**KirubG/KirubG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Front-End Developer** passionate about building clean, responsive, and user-friendly web interfaces. Currently, I'm expanding my skills into **Back-End Development** to become a full-stack developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github)
+
+---
+
+## 🌱 Currently Learning
+
+- 🔁 Redux Toolkit  
+- 🐘 PostgreSQL & MongoDB  
+- 🔐 Authentication and RESTful APIs  
+- ☁️ Backend deployment (Vercel, Render)
+
+---
+
+## 📈 GitHub Stats
+
+![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirub1896&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirub1896&layout=compact&theme=tokyonight)
+
+---
+
+## 💻 Projects I'm Proud Of
+
+- 🧹 **Waste Dizo Art** – Turning waste into value through creative digital art  
+- 👤 **Customer Registration System** – MERN-stack app with logging and secure data storage  
+- 🌐 **Personal Portfolio Website** – Built with Next.js and TailwindCSS
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kirubel-girma-33109830b/)
+- 📧 Email: kirub1896@gmail.com
+- 💼 Portfolio: *(Coming Soon)*
+
+---
+
+## ⚽ Fun Fact
+
+I love playing and watching football – it's my favorite way to relax after coding!
+
+---
+
+## 🚀 Looking For
+
+I’m open to **collaboration**, **internship opportunities**, and **front-end freelance projects**. Let's build something amazing together!
