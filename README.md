@@ -17,13 +17,7 @@ Welcome to my GitHub! I'm a **Front-End Developer** passionate about building cl
 - 🔐 Authentication and RESTful APIs  
 - ☁️ Backend deployment (Vercel, Render)
 
----
-
-## 📈 GitHub Stats
-
-![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirub1896&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirub1896&layout=compact&theme=tokyonight)
-
+  
 ---
 
 ## 💻 Projects I'm Proud Of
@@ -36,7 +30,7 @@ Welcome to my GitHub! I'm a **Front-End Developer** passionate about building cl
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kirubel-girma-33109830b/)
+- 🔗 [X](https://x.com/kirub1896)
 - 📧 Email: kirub1896@gmail.com
 - 💼 Portfolio: *(Coming Soon)*
 
