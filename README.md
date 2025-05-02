@@ -22,9 +22,9 @@ Welcome to my GitHub! I'm a **Front-End Developer** passionate about building cl
 
 ## 💻 Projects I'm Proud Of
 
-- 🧹 **Waste Dizo Art** – Turning waste into value through creative digital art  
-- 👤 **Customer Registration System** – MERN-stack app with logging and secure data storage  
+- 👤 **Customer Registration System for CBE** – MERN-stack app with logging and secure data storage  
 - 🌐 **Personal Portfolio Website** – Built with Next.js and TailwindCSS
+- 👕 **3D Shirt Designer Web App** – A modern interactive platform where users can design shirts in real-time using **Three.js** and **React Three Fiber**. Users can customize colors, logos, and textures dynamically.
 
 ---
 
