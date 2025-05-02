@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a **Front-End Developer** passionate about building cl
 
 ## 📫 Let's Connect
 
-- 🔗 [X](https://x.com/kirub1896)
+- 🔗 [twitter](https://x.com/kirub1896)
 - 📧 Email: kirub1896@gmail.com
 - 💼 Portfolio: *(Coming Soon)*
 
